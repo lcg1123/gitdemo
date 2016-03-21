@@ -1,4 +1,1 @@
-hello ,world
-
-lcg yao chengwei  dashi  daniu  dashen
-lcg yao haohao zhengqian 
+lcg , ni yi ding yao jian chi zhu 
