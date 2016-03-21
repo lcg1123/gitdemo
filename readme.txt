@@ -1,5 +1,3 @@
 hello ,world
 
-lcg 
-wxh
-a
+lcg yao chengwei  dashi  daniu  dashen
